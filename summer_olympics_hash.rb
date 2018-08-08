@@ -26,4 +26,4 @@ def iterate_through_keys
   upcased_cities.each {|city| puts city}
 end
 
-iterate_through_keys
+iterate_through_hash
